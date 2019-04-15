@@ -1,7 +1,7 @@
 # uestcPublic
 
 电子科技大学课程资料整理
-（受libpku启发 [libpku](https://github.com/lib-pku/libpku) ）
+（受[libpku](https://github.com/lib-pku/libpku)启发  ）
 
 ## Preface
 
